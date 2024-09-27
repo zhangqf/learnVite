@@ -1,0 +1,16 @@
+{
+  "name": "bvite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zf <965789281@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "vite": "^5.4.8"
+  }
+}
